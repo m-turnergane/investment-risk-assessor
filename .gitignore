@@ -1,0 +1,40 @@
+# User data files
+user_data.csv
+user_profiles.db
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Machine learning model file (if you want to exclude it)
+risk_assessment_model.joblib
+
+# Logs
+*.log
+
+# Other potential data files
+*.csv
+*.db
+*.sqlite3
+
+# Backup files
+*.bak

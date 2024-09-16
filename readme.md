@@ -16,6 +16,8 @@
 
 This Investment Risk Tolerance Assessment Tool is a Streamlit-based web application designed to help individuals understand their risk tolerance when it comes to investments. By answering a series of questions about their financial situation, investment experience, and attitudes towards risk, users receive a personalized risk tolerance assessment and investment allocation recommendation.
 
+Try it yourself!: https://investment-risk-assessment.streamlit.app/
+
 ## Features
 
 - **User-friendly Interface**: Built with Streamlit for a smooth, interactive experience.
